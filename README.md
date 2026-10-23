@@ -1,7 +1,6 @@
 # Banking-Loan-Risk-Analysis-SQL
 SQL-based analysis of loan portfolio, borrower characteristics, and loan default risk using MySQL.
 
-# Banking & Loan Risk Analysis Using MySQL
 
 ## Project Overview
 This project analyzes a loan portfolio using MySQL to understand borrower characteristics, loan distribution, and loan default risk.
